@@ -1,0 +1,63 @@
+---
+date: 2020-02-19
+tags: 
+  - PGP
+author: Yannick
+location: Dresdem  
+---
+
+# My PGP-key
+
+I had a spair minute so I generated a PGP-Key-Pair to enable me and others to send and receive encrypted messages.
+
+If you are interested in encryption or want to get started, take a look at the man-page for GnuPGP: [https://www.gnupg.org/documentation/manpage.html]('https://www.gnupg.org/documentation/manpage.html')
+
+Feel free to encrype a message and send it to me!
+
+My Public-Key as a file: [yannickspoerl.asc](/assets/yannickspoerl.asc)
+
+or as plain text:
+
+```sh
+----BEGIN PGP PUBLIC KEY BLOCK-----
+
+mQGNBF5NX3MBDADHWP7FTMeQ7qAjCEMrv/LAegbuuB1xSxqeeBc3uZ3CmKGLYizw
+sqYKqF4FtIAnGaEyRbYN2+qgnhQz1hoUBfY+BB5snkJgCvaJVWz6wkCekoO7HkDN
+9LB7r5MGdoMFfEnA2hpMRyu5yI1ZJiOCt3x487fB7rTGuwX//4syg5hMWGB26U9u
+FDIDhSUK4ji04Hss0Zq4NnyYLrByXK3iQgAAT6ZtGGXIIR9AQUiXtEdfCub4tlyE
+G5oyU4C6+Q7NoohtL4tyC8uLgv2lO/2dWccCIw3htc669BVOKD+X560YW6mhIb6L
+HFqOLC0r6u3YS3K2IDi7h+enf6j5vrwoMK8HBkxkE1bi46jP6bWDS5/fiQ4Oi2Qt
+g8LlOWKilup+xtZ9ImBcp3iq36HU4GR4Ki4A1QIeWOt7GMmR/XSSap6gng4cfN/2
+KBBJTF862hsP6naK9u/J64G5vM4ldvLQ/CTGAtOniWRSCNtmPQjmTuic6G9RusUY
+6/Tl4FnrVoZUOpEAEQEAAbQoWWFubmljayBTcG9lcmwgPHNwb2VybHlhbm5pY2tA
+Z21haWwuY29tPokB1AQTAQgAPhYhBKNpoKnUrfl2U384IGdJb6tn2l+JBQJeTV9z
+AhsDBQkDwmcABQsJCAcCBhUICQoLAgQWAgMBAh4BAheAAAoJEGdJb6tn2l+JofsL
+/3lM3CJZv7GzDjrCeo6rz3LGL7HQXQ7x0Ul8q10d1wcsUnlGxWUetXhzLNMWE5Yb
+m7zf9XedVq5sT/FRz1Kgir5HAeKZqkepAw8lTUOvFly8w9qGO+dm6UVmQSDrXT1I
+XlasxIoMTI9Lr8fTAD5KLOdUAmiG3DO1386zkSFo/BzQjXl3FAmG8sVuGVi2u7Lg
+sbQvbtbUD8Jm9oECxFBA3u6+Y8Adisy6z7ukfDkxsesR89LT0Zabmirj1MsvgHeb
+1MSMSovK0xH+7Inp7a9Ereeu2zSKX2SavTck/5B2gqOLOaU4vk04L+CHWcWFzztu
+84LLE3HRRxoRrZ8bk6gUkP8QpxtRc2xAokiDPxliI5YBHPpfSX/WUlJjAi5NxB7s
+8cbCVphPIQndY0KmjFsZjH5+gkdBkv7dFHed40crC4xS902v7DSlaM8IQqnvcfi5
+1gz5x/A0RfFGAqvvEZpyas2N2wexj/qVg7CnK4f44IzipWuvxy0SfxmGUIh7hrv8
+9LkBjQReTV9zAQwAv9xHax4lq26VDJP2PHiFC5xHzJ6dIP8wxRXZvFGAXADTF8pk
+Qow2VOlXhFl5sh8UfVyVG6bsfCPB7yeSB+0Rko6OneE+Cd9j8ZTX/rNFCkvpC7sN
+SHVjhtFTzwvw9Pkydj9vkeSdX8r5YwOD4GBsy8WuWTI2v94/7fpCNQQhNhRnm4ZQ
+q7bXHunwERKaMWIeOCsKzjiNBnf9B1Sp1YpMC4jwFDuMTBZtKgWQ4HFAlm9aJeW1
+VOgwskRLPqFk5UQrWu/12NjcQp9rfVk8dNMKxROIwQhAVD6Zv+mBBqUeudBt/Lvl
+0m57ogoS1f01SlEinFOT+4ahI0rJolSS/6lW0d6kAl7CTItNYTAbVSpJzuWeHJb0
+z+s6z3GCMN+j/pMt6C4eCZ+rKWUXxEyG5FgHK9kzQBsY8pmDICEj1mhAEQNroZJN
+1NWGbsomt0omxKyrYF2XJpi7WH1zoxRag/gcVLxNl9q7O+03EMYzqSj/d1+RJmUp
+Sndy3TBJfqu2b40JABEBAAGJAbwEGAEIACYWIQSjaaCp1K35dlN/OCBnSW+rZ9pf
+iQUCXk1fcwIbDAUJA8JnAAAKCRBnSW+rZ9pfiQFJDACbHdIgb6zzYX4fYJ/+AWBx
+mQFFmUk5e/gvZXcfiqNih/JFUJGiNL58WvrHggFs1zxxugvRb4qn6/7VWcQoNdKe
+ws0k17qEM1bJYZhGQjneab9hfHO9wu6PRQGUi4vRR0yt57DX7B84iym5h7WxkUL2
+rEaT+X6x0N74M0tEoDWdkAOWbTI9aoUuy5OJ8eawqYBwLbecwdqNr94gMcs1DKrP
+RvuLsFFfFuVgR8eTAB6zzeLjFlbMxjp5xq6da//a8zpm1lN/2jUcgH/zEN4JYIg1
+CtjFHk6NbMbTxy0RrnP79fWYwCga4V7PJSCFilfyrlm8v+4cMAOULnHqs2/ZQtiz
+lKmnreaxNRv4zwiEPxpDRVW2Jk58mnaJrbrzP7mxQH3HsxYMDTac+C1CMht70Hjt
+Fbkpl3cZdmqSpV2XE8+5C4iANqsK2Zq3yyxnYDufU4xOSv/mCHv9V6jAWTixd/cx
+0weWFKkHv7HY1+mC/l0Bclbb7H6mJLY6XCflnJYF/9s=
+=/wWm
+-----END PGP PUBLIC KEY BLOCK-----
+```
