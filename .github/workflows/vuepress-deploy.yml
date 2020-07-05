@@ -13,5 +13,5 @@ jobs:
         ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
         TARGET_REPO: yannickspoerl/blog
         TARGET_BRANCH: master
-        BUILD_SCRIPT: npm && npm build
+        BUILD_SCRIPT: npm && npm run-script build
         BUILD_DIR: blog/.vuepress/dist/
