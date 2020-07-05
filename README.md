@@ -32,7 +32,7 @@
 My personal web-blog, realized with vuepress and a customized theme.
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/33640025/86544932-38765700-bf2b-11ea-9a0a-4c1605ff1b5f.png" width="444" height="346"/>
+  <img src="https://user-images.githubusercontent.com/33640025/86544932-38765700-bf2b-11ea-9a0a-4c1605ff1b5f.png" width="686" height="346"/>
   <!--   -->&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<!--   -->
   <img src="https://user-images.githubusercontent.com/33640025/86544923-1e3c7900-bf2b-11ea-969e-7c43615ee927.png" width="170" height="346"/>
 </p>
