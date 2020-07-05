@@ -1,7 +1,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/YannickSpoerl/blog">
-    <img src="https://github.com/YannickSpoerl/blog/blob/master/.vuepress/public/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://github.com/YannickSpoerl/blog/blob/master/blog/.vuepress/public/logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Blog</h3>
@@ -32,9 +32,9 @@
 My personal web-blog, realized with vuepress and a customized theme.
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/33640025/85009695-29d42580-b15f-11ea-98a5-812e3a185562.png" width="444" height="346"/>
+  <img src="https://user-images.githubusercontent.com/33640025/86544923-1e3c7900-bf2b-11ea-969e-7c43615ee927.png" width="444" height="346"/>
   <!--   -->&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<!--   -->
-  <img src="https://user-images.githubusercontent.com/33640025/85009696-2a6cbc00-b15f-11ea-964a-6fdaf70f665b.png" width="170" height="346"/>
+  <img src="https://user-images.githubusercontent.com/33640025/86544932-38765700-bf2b-11ea-9a0a-4c1605ff1b5f.png" width="170" height="346"/>
 </p>
 
 
@@ -77,7 +77,7 @@ module.exports = {
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See [LICENSE](https://github.com/YannickSpoerl/blob/blob/master/LICENSE.md) for more information.
+Distributed under the MIT License. See [LICENSE](https://github.com/YannickSpoerl/blog/blob/master/LICENSE.md) for more information.
 
 
 
