@@ -3,7 +3,7 @@ date: 2020-02-19
 tags: 
   - PGP
 author: Yannick
-location: Dresdem  
+location: Dresden
 ---
 
 # My PGP-key
@@ -14,9 +14,7 @@ If you are interested in encryption or want to get started, take a look at the m
 
 Feel free to encrype a message and send it to me!
 
-My Public-Key as a file: [yannickspoerl.asc](/assets/yannickspoerl.asc)
-
-or as plain text:
+My Public-Key as plain text:
 
 ```sh
 ----BEGIN PGP PUBLIC KEY BLOCK-----
