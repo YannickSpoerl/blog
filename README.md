@@ -1,10 +1,10 @@
 <br />
 <p align="center">
   <a href="https://github.com/YannickSpoerl/blog">
-    <img src="https://github.com/YannickSpoerl/blog/blob/master/blog/.vuepress/public/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://github.com/YannickSpoerl/blog/blob/master/blog/.vuepress/public/logo.png" alt="Logo" width="115" height="80">
   </a>
 
-  <h3 align="center">Blog</h3>
+  <h3 align="center">blog.yannickspoerl.de</h3>
   <p align="center">
   <img src="https://img.shields.io/github/license/YannickSpoerl/blog"/>
   <img src="https://img.shields.io/github/package-json/v/YannickSpoerl/blog"/>
@@ -30,12 +30,7 @@
 ## About The Project
 
 My personal web-blog, realized with vuepress and a customized theme.
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/33640025/86544932-38765700-bf2b-11ea-9a0a-4c1605ff1b5f.png" width="686" height="346"/>
-  <!--   -->&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<!--   -->
-  <img src="https://user-images.githubusercontent.com/33640025/86544923-1e3c7900-bf2b-11ea-969e-7c43615ee927.png" width="170" height="346"/>
-</p>
+Check it out at [https://blog.yannickspoerl.de](https://blog.yannickspoerl.de)
 
 
 <!-- GETTING STARTED -->
