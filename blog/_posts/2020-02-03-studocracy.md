@@ -13,7 +13,7 @@ location: Dresden
 
 For the lecture Application Development for Mobile and Ubiquitous Computing during winter-term 19/20 my teammate and me created a nice little Android-Application: Studocracy
 
-## Why?
+## Some background
 
 This app tries to solve the problems of the expectation mismatch between professors and students, but can also be used for other Speaker - Audience dynamics.
 Basically the lecturer can create his lecture within the app, which creates a PIN and QR-code that he can share with his audience.
@@ -30,8 +30,9 @@ Overall I am happy with the result and we passed the exams, also it is nice to s
 I invite you to download the app from Google Play and try it at your university or meetings!
 
 Here is a little sneak peak at screen within the app:
-![Screenshot](/static/apps/studocracyscreen.png)
 
-Check out the app on Google Play [HERE](/mensavue/)
+<img src="https://user-images.githubusercontent.com/33640025/86590389-cedc6400-bf8f-11ea-905c-8b967337413f.png" alt="studocracy-screenshot" width="300"/>
 
-Check the project out on [GITHUB](https://github.com/YannickSpoerl/Studocracy)
+## Check it out!
+
+Check out the app on [Google Play](https://play.google.com/store/apps/details?id=de.tudresden.studocracy) or check the project out on [GitHub](https://github.com/YannickSpoerl/Studocracy).

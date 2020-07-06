@@ -53,9 +53,8 @@ For the features of the app, I implemented the following:
 - The active slot, otherwise the arrival-slot
 - Animation, showing the previous, then current and the next winner, should the worker arrive in the current slot, otherwise todays winner
 - A button that should be pressed, when the worker arrives, disabling betting and showing the winner on all clients
+
 Here you can see the final result:
-![Screenshot](/static/postimg/wannistalexscreenshot.png)
+![Screenshot](https://user-images.githubusercontent.com/33640025/86590794-94bf9200-bf90-11ea-8a89-f9f00c7f7e5b.png)
 
-Check out the live-app [HERE](/wannistalex/)
-
-Check the project out on [GITHUB](https://github.com/YannickSpoerl/wannistalex)
+Check out the [live-app](https://wannistalex.yannickspoerl.de) or check out the project [on GitHub](https://github.com/YannickSpoerl/wannistalex).
