@@ -32,7 +32,7 @@ module.exports = {
       },
       {
         text: 'Resume',
-        link: 'http://blog.yannickspoerl.de/Resume_en.pdf',
+        link: 'http://blog.yannickspoerl.de/Resume_EN.pdf',
       }
     ],
     dateFormat: 'dd, DD.MM.YY',
