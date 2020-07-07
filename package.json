@@ -19,7 +19,7 @@
   },
   "dependencies": {
     "@vuepress/plugin-back-to-top": "^1.5.2",
-    "@yannickspoerl/vuepress-theme-yannickspoerl": "^1.0.0",
+    "@yannickspoerl/vuepress-theme-yannickspoerl": "^1.0.1",
     "vuepress-plugin-feed": "^0.1.8",
     "vuepress-plugin-seo": "^0.1.3",
     "vuepress-plugin-sitemap": "^2.3.1"
