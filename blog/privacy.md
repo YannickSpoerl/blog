@@ -1,6 +1,6 @@
 ---
-title: Legal Notice
-permalink: /legalnotice
+title: Datenschutzhinweis
+permalink: /privacy
 ---
 
 

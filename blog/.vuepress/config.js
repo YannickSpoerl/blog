@@ -7,6 +7,7 @@ module.exports = {
     require('vuepress-plugin-seo'),
   ],
   themeConfig: {
+    commentUrl: 'yannickspoerl/blog',
     directories: [
       {
         id: "de",
@@ -34,10 +35,6 @@ module.exports = {
       {
         text: 'About',
         link: '/about/',
-      },
-      {
-        text: 'Resume',
-        link: 'http://blog.yannickspoerl.de/Resume_EN.pdf',
       },
       {
         text: 'Deutsch 🇩🇪',
@@ -78,8 +75,8 @@ module.exports = {
           link: '/'
         },
         {
-          text: 'Privacy Notice',
-          link: '/legalnotice',
+          text: 'Datenschutzhinweis',
+          link: '/privacy',
         },
         {
           text: 'MIT Licensed',
