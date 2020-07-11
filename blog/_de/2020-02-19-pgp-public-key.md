@@ -1,22 +1,22 @@
 ---
-title: My PGP-key 🔑
+title: Mein PGP-key 🔑
 date: 2020-02-19
 tags: 
   - PGP
 author: Yannick
 location: Dresden
-summary: Send me encrypted messages
+summary: Sende mir verschlüsselte Nachrichten!
 ---
 
-English | [Deutsch](/2020/02/19/pgp-public-key/)
+[English](/en/2020/02/19/pgp-public-key/) | Deutsch
 
-I had a spair minute so I generated a PGP-Key-Pair to enable me and others to send and receive encrypted messages.
+In einer freien Minute habe ich mir ein persönliches PGP-Schlüsselpaar generiert um mir und anderen verschlüsselten Nachrichtenaustausch zu ermöglichen.
 
-If you are interested in encryption or want to get started, take a look at the man-page for GnuPGP: [https://www.gnupg.org/documentation/manpage.html]('https://www.gnupg.org/documentation/manpage.html')
+Wenn dich Verschlüsselung interessiert oder du mit PGP beginnen möchtest, werfe einen Blick auf die man-page von GnuPGP: [https://www.gnupg.org/documentation/manpage.html]('https://www.gnupg.org/documentation/manpage.html')
 
-Feel free to encrype a message and send it to me!
+Ich freue mich über jede verschlüsselte Nachricht!
 
-My Public-Key [as file](https://yannickspoerl.de/yannickspoerl.asc) and as plain text:
+Mein öffentlicher Schlüssel [als Datei](https://yannickspoerl.de/yannickspoerl.asc) und als Plain-Text:
 
 ```sh
 ----BEGIN PGP PUBLIC KEY BLOCK-----
