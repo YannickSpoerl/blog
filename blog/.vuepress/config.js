@@ -7,14 +7,26 @@ module.exports = {
     require('vuepress-plugin-seo'),
   ],
   themeConfig: {
+    directories: [
+      {
+        id: "de",
+        dirname: "_de",
+        title: "Post",
+        path: "/",
+        itemPermalink: "/:year/:month/:day/:slug"
+      },
+      {
+        id: "en",
+        dirname: "_en",
+        title: "Post",
+        path: "/en/",
+        itemPermalink: "/en/:year/:month/:day/:slug"
+      }
+    ],
     modifyBlogPluginOptions(blogPluginOptions) {
       return blogPluginOptions
     },
     nav: [
-      {
-        text: 'Blog',
-        link: '/',
-      },
       {
         text: 'Tags',
         link: '/tag/',
@@ -26,7 +38,15 @@ module.exports = {
       {
         text: 'Resume',
         link: 'http://blog.yannickspoerl.de/Resume_EN.pdf',
-      }
+      },
+      {
+        text: 'Deutsch 🇩🇪',
+        link: '/',
+      },
+      {
+        text: 'English 🇬🇧',
+        link: '/en/',
+      },
     ],
     dateFormat: 'dd, DD.MM.YY',
     footer: {

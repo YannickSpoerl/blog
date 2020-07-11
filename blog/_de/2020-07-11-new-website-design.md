@@ -1,29 +1,32 @@
 ---
+title: Neues Website-design 🥳
 date: 2020-07-11
 tags: 
   - Vue
   - Nuxt
 author: Yannick
 location: Dresden
-summary: I've rebuilt my personal website with Nuxt!
+summary: Meine neue Website, gebaut mit Nuxt!
 ---
 
-# New website design 🥳
+[English](/en/2020/07/11/new-website-design/) | Deutsch
 
-After rebuilding this personal blog with Vuepress and settling on a shiny new design and logo, it was time to do the same with my
-personal website [yannickspoerl.de](https://www.yannickspoerl.de)!
+Nachdem ich diesen Blog bereits mit einem neuen Design und Logo und der Hilfe von Vuepress neu gebaut habe, war es an der Zeit,
+dasselbe auch mit meiner persönlichen Website [yannickspoerl.de](https://www.yannickspoerl.de) zu tun.
 
-## The new features
+## Was ist neu?
 
-I had some wishes in the back of my mind of what new functionalities I wanted and I'm glad that everything turned out working
-exactly as I wanted! So I'm proud to announce the new changes:
+Ich hatte bereits einige Funktionalitäten im Kopf, die meine neue Seite haben sollte und ich bin durchaus zufrieden mit meinem Ergebnis!
+Ich kann also stolz die neuen Änderungen verkünden:
 
-- Complete new look and styling
-- Multi-language support (currently English and German)
-- Mobile-friendly interface
-- Interactive scroller
+- Komplett neuer Look und Style
+- Multi-lingual (im Moment Englisch und Deutsch)
+- Smartphone-unterstützendes Interface
+- Interaktive Scroll-Komponente
 
-## Powered by?
+## Was steckt dahinter?
+
+Meine vorherige website hatte ich mit Jekyll gebaut, was durchaus vorzeigbare Ergebnisse geliefert hat.
 
 My previous website was built with Jekyll, which was very developer-friendly and did it's job very well. But for
 more functionality, flexibility and a well-structured codebase it would not be my first choice again. As I'm a Vue developer
