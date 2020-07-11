@@ -1,4 +1,5 @@
 ---
+title: Install iOS Apps on outdated devices 🍏
 date: 2018-07-18
 tags:
     - iOS
@@ -7,8 +8,6 @@ author: Yannick
 location: Dresden
 summary: How to install iOS Apps on your old device
 ---
-
-# Install iOS Apps on outdated devices
 
 ## When is this useful?
 

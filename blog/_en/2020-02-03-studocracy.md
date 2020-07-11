@@ -1,4 +1,5 @@
 ---
+title: Studocracy 👨‍🎓
 date: 2020-02-03
 tags: 
   - Flutter
@@ -7,10 +8,8 @@ tags:
   - Android
 author: Yannick
 location: Dresden
-summary: Optimizing student feedback at university 👨‍🎓
+summary: Optimizing student feedback at university
 ---
-
-# Studocracy
 
 For the lecture Application Development for Mobile and Ubiquitous Computing during winter-term 19/20 my teammate and me created a nice little Android-Application: Studocracy
 

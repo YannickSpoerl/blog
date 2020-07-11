@@ -1,4 +1,5 @@
 ---
+title: Mobile Camp Dreden 2019 📱
 date: 2019-05-19
 tags: 
   - Events
@@ -6,8 +7,6 @@ author: Yannick
 location: Dresden
 summary: Talking mobile ...
 ---
-
-# Mobile Camp Dresden 2019
 
 ## What happened?
 

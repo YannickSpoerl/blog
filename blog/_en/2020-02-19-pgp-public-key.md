@@ -1,13 +1,12 @@
 ---
+title: My PGP-key 🔑
 date: 2020-02-19
 tags: 
   - PGP
 author: Yannick
 location: Dresden
-summary: Send my encrypted messages 🔑
+summary: Send my encrypted messages
 ---
-
-# My PGP-key
 
 I had a spair minute so I generated a PGP-Key-Pair to enable me and others to send and receive encrypted messages.
 
