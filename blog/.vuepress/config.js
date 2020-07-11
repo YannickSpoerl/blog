@@ -5,17 +5,15 @@ module.exports = {
   plugins: [
     require('@vuepress/plugin-back-to-top'),
     require('vuepress-plugin-seo'),
-    require('vuepress-plugin-feed')
-    [
-      'sitemap',
-      {
-        hostname: 'https://blog.yannickspoerl.de'
-      }
-    ]
+    'vuepress-plugin-feed',
   ],
   themeConfig: {
     modifyBlogPluginOptions(blogPluginOptions) {
       return blogPluginOptions
+    },
+    feed: {
+      canonical_base: "https://blog.yannickspoerl.de/",
+      posts_directories: ["/_posts/"]
     },
     nav: [
       {
