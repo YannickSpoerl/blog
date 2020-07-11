@@ -1,5 +1,5 @@
 ---
-title: Neues Website-design 🥳
+title: Neues Website Design 🥳
 date: 2020-07-11
 tags: 
   - Vue
