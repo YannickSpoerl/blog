@@ -5,6 +5,7 @@ tags:
     - Guide
 author: Yannick
 location: Dresden
+summary: How to install iOS Apps on your old device
 ---
 
 # Install iOS Apps on outdated devices

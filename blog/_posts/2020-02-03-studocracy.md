@@ -6,7 +6,8 @@ tags:
   - Aqueduct
   - Android
 author: Yannick
-location: Dresden  
+location: Dresden
+summary: Optimizing student feedback at university 👨‍🎓
 ---
 
 # Studocracy

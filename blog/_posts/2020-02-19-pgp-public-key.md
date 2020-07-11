@@ -4,6 +4,7 @@ tags:
   - PGP
 author: Yannick
 location: Dresden
+summary: Send my encrypted messages 🔑
 ---
 
 # My PGP-key

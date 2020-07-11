@@ -3,7 +3,8 @@ date: 2019-05-19
 tags: 
   - Events
 author: Yannick
-location: Dresden  
+location: Dresden
+summary: Talking mobile ...
 ---
 
 # Mobile Camp Dresden 2019

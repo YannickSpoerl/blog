@@ -5,7 +5,8 @@ tags:
   - Vuetify
   - Firebase
 author: Yannick
-location: Dresden  
+location: Dresden
+summary: Gambling at workplace
 ---
 
 # Wann ist Alex?

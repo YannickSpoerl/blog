@@ -5,6 +5,7 @@ tags:
   - Nuxt
 author: Yannick
 location: Dresden
+summary: I've rebuilt my personal website with Nuxt!
 ---
 
 # New website design 🥳
