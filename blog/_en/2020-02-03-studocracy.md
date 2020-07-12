@@ -11,6 +11,8 @@ location: Dresden
 summary: Optimizing student feedback at university
 ---
 
+English | [Deutsch](/2020/02/03/studocracy/)
+
 For the lecture Application Development for Mobile and Ubiquitous Computing during winter-term 19/20 my teammate and me created a nice little Android-Application: Studocracy
 
 ## Some background
