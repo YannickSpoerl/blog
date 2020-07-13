@@ -8,6 +8,8 @@ location: Dresden
 summary: Talking mobile ...
 ---
 
+English | [Deutsch](/2019/05/19/mobile-camp/)
+
 ## What happened?
 
 ![MobileCampDresden](https://user-images.githubusercontent.com/33640025/86591017-039ceb00-bf91-11ea-8fa3-ba2996bf245b.jpeg)
