@@ -10,6 +10,8 @@ location: Dresden
 summary: Gambling at workplace
 ---
 
+English | [Deutsch](/2019/11/15/wannistalex/)
+
 For some time I wanted to try out Googles Firebase, but as I don't have much time these days I couldn't and didn't want to just experiment by myself but use it for prototyping or a small application for a real use case. When I finally had an idea, it was the following:
  
 ## The use case
