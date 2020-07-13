@@ -9,6 +9,8 @@ location: Dresden
 summary: How to install iOS Apps on your old device
 ---
 
+English | [Deutsch](/2018/07/18/ios-tutorial/)
+
 ## When is this useful?
 
 So recently I tried to install the Spotify-App on my old iPod-Touch 4th generation. As Apple stopped supporting old devices, the iPod still runs with iOS 6.xxx and as most Apps require some 9.xxx version of iOS nowadays it would not let me install Spotify through the App-Store. But I figured out a way to get the last compatible version of any App from the Store and want to share it here:
