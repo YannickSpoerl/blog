@@ -4,7 +4,7 @@
     <img src="https://github.com/YannickSpoerl/blog/blob/master/blog/.vuepress/public/logo.png" alt="Logo" width="105" height="80">
   </a>
 
-  <h3 align="center">blog.yannickspoerl.de</h3>
+  <h3 align="center"><a href="https://blog.yannickspoerl.de">blog.yannickspoerl.de</a></h3>
   <p align="center">
   <img src="https://img.shields.io/github/license/YannickSpoerl/blog"/>
   <img src="https://img.shields.io/github/package-json/v/YannickSpoerl/blog"/>
@@ -46,7 +46,7 @@ npm install npm@latest -g
 ```
 
 ### Installation
- 
+
 1. Start your vuepress-blog
 ```sh
 npx create-vuepress my-blog
