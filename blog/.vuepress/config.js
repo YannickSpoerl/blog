@@ -12,14 +12,14 @@ module.exports = {
       {
         id: "de",
         dirname: "_de",
-        title: "Post",
         path: "/",
+        title: null,
         itemPermalink: "/:year/:month/:day/:slug"
       },
       {
         id: "en",
         dirname: "_en",
-        title: "Post",
+        title: null,
         path: "/en/",
         itemPermalink: "/en/:year/:month/:day/:slug"
       }
