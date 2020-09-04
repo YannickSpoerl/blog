@@ -5,7 +5,8 @@ module.exports = {
   plugins: [
     '@vuepress/plugin-back-to-top',
     'vuepress-plugin-seo',
-    ['vuepress-plugin-sitemap', { hostname: 'https://blog.yannickspoer.de' }]
+    ['vuepress-plugin-sitemap', { hostname: 'https://blog.yannickspoer.de' }],
+    ['vuepress-plugin-mathjax', { target: 'svg' }]
   ],
   themeConfig: {
     directories: [
